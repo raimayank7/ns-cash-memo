@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cash-memo.niveshsahayak.in/sitemap.xml
